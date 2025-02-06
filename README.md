@@ -48,4 +48,27 @@ For a full list of SQL queries, check the **zomato_sales.sql** file.
 - PostgreSQL for database analysis
 - SQL for querying and insights
 
+
+## 🔍 Findings
+
+1. Top Locations: Certain locations generate higher sales and attract more customers.
+
+2. Popular Cuisines: Some cuisines are more commonly available and preferred by customers.
+
+3. High-Performing Restaurants: Identifying restaurants with the highest ratings and sales.
+
+4. Customer Preferences: Understanding pricing trends based on restaurant ratings and votes.
+
+## 📑 Reports
+
+Sales Summary: Insights into top-selling restaurants and customer preferences.
+
+Cuisine Popularity: Breakdown of cuisine demand in different locations.
+
+Pricing Trends: Analysis of cost variations across different cuisines.  
+
+## 🏁 Conclusion
+
+This project provides valuable insights into Zomato sales data, helping restaurant owners optimize their pricing, improve customer satisfaction, and maximize sales. The SQL-based analysis covers essential business questions that can drive data-driven decision-making.
+
 ---
